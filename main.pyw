@@ -15,7 +15,7 @@ def main():
 			self.button.place(x=x_pos, y=y_pos)
 
 	# app variables
-	__version__ = "V1.2.1-Alpha"
+	__version__ = "v1.2.1-Alpha"
 
 	# app list
 	x_coordinates_big = [0, 45, 90, 135, 180, 225, 270, 315, 360, 405, 450, 550, 495, 540, 585]
